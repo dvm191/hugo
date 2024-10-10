@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dev4dummies</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on dev4dummies</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 15:59:10 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 30 Sep 2024 15:59:10 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;who-is-dayne-segal&#34;&gt;Who is Dayne Segal?&lt;/h3&gt;
+&lt;h4 id=&#34;humble-beginings&#34;&gt;Humble Beginings&lt;/h4&gt;
+&lt;p&gt;I was born in South Africa, Durban - It is a dosey beach city that has Summer all year round, I moved to London in the United Kingodm in October 2022 and have set about making the big Smoke my home ever since.&lt;/p&gt;
+&lt;p&gt;I was always into computers from a young age, The first game i ever played was Diablo 1 way back when, I think I am showing my age there. I always knew that i wanted to embark on a career in tech but at the same time did not a 100% know where to start.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overview of Hugo/PaperMod and Setting Up This Site</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 14 May 2024 20:13:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>This post provides an overview of Hugo (PaperMod theme) and details the steps I took in setting up this website.</description>
+    </item>
+    <item>
+      <title>First Blog Post</title>
+      <link>http://localhost:1313/posts/2nd-post/</link>
+      <pubDate>Fri, 27 Jan 2023 14:01:40 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2nd-post/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Advertisement :)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://nodeca.github.io/pica/demo/&#34;&gt;pica&lt;/a&gt;&lt;/strong&gt; - high quality and fast image
+resize in browser.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/nodeca/babelfish/&#34;&gt;babelfish&lt;/a&gt;&lt;/strong&gt; - developer friendly
+i18n with plurals support and easy syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will like those projects!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;h1-heading-8-&#34;&gt;h1 Heading 8-)&lt;/h1&gt;
+&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;
+&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;
+&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;
+&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;
+&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;
+&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;typographic-replacements&#34;&gt;Typographic replacements&lt;/h2&gt;
+&lt;p&gt;Enable typographer option to see result.&lt;/p&gt;
+&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;/p&gt;
+&lt;p&gt;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;!!!!!! ???? ,,  &amp;ndash; &amp;mdash;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

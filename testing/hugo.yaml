@@ -1,0 +1,38 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: dev4dummies
+theme: 'PaperMod'
+
+params:
+  comments: true
+  homeInfoParams:
+    Title: "Dayne Segal \U0001F600"
+    Content: "Professionally I am employed as Cloud Operations Engineer/Devops Engineer/Platforms Engineer. I have for some time wanted to create an online presence to document some of the work I do week to week as well as exploring new technologies"
+  socialIcons:
+    - name: twitter
+      url: https://twitter.com/joelolawanle
+    - name: github
+      url: https://github.com/olawanlejoel
+    - name: linkedin
+      url: https://www.linkedin.com/in/joelolawanle/
+    - name: discord
+      url: https://discord.gg/8Qv6rjv
+
+menu:
+    main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: contents
+      name: Archive
+      url: /Archive/
+      weight: 30
